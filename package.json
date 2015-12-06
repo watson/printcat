@@ -1,6 +1,6 @@
 {
   "name": "printcat",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Output print jobs to STDOUT",
   "bin": "index.js",
   "dependencies": {
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/watson/printcat/issues"
   },
-  "homepage": "https://github.com/watson/printcat#readme"
+  "homepage": "https://github.com/watson/printcat#readme",
+  "coordinates": [
+    30.5574482,
+    -81.4456412
+  ]
 }
