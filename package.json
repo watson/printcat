@@ -1,0 +1,34 @@
+{
+  "name": "printcat",
+  "version": "0.0.0",
+  "description": "Output print jobs to STDOUT",
+  "bin": "index.js",
+  "dependencies": {
+    "ipp-printer": "^0.10.4"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/printcat.git"
+  },
+  "keywords": [
+    "ipp",
+    "print",
+    "printer",
+    "printing",
+    "stdout",
+    "cat",
+    "redirect"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/printcat/issues"
+  },
+  "homepage": "https://github.com/watson/printcat#readme"
+}
